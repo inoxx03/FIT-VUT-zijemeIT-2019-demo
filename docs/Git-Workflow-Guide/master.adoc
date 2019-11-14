@@ -1,0 +1,5 @@
+= Git Workflow Guide
+
+include::assemblies/assembly_git-workflow.adoc[leveloffset=+1]
+
+include::assemblies/assembly_setting-up-git.adoc[leveloffset=+1]
